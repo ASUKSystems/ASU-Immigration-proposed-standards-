@@ -1,0 +1,23 @@
+# Phase 3 aligned release
+- Corrective privacy/identity pass: removed unrelated internal-system identifiers, normalised public attribution to ASU LTD and made deployment language provider-neutral.
+
+## 2026.09.18-r3
+
+- Aligned the complete connected website set to Phase 3.
+- Corrected the immigration canonical domain across all connected sites.
+- Added PNG, ICO, Apple touch and web-app icons for broader browser support.
+- Preserved earlier phases, versions and public information in the historical record.
+
+# Stage III release
+
+## 2026.09.18-r2
+
+- Added coordinated Stage III research and assessment controls.
+- Preserved existing public information and earlier release history.
+- Added no claim of completed review, independent endorsement or implementation approval.
+
+# Change history
+
+## 2026.09.18-r1
+
+Canonicalised the project at asu-immigration-proposed-standards.uk; added status banners, methodology, equality and human-rights impact, terminology, consultation, connected-project navigation, structured metadata and release controls. Existing policy-study content was preserved.

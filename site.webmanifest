@@ -1,0 +1,22 @@
+{
+  "name": "ASU Immigration Proposed Standards",
+  "short_name": "ASU Immigration Proposed",
+  "description": "Independent theory and standards investigation",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111c",
+  "theme_color": "#07111c",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

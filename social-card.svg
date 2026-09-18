@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050d16"/>
+    <stop offset="1" stop-color="#123149"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<circle cx="1040" cy="100" r="250" fill="#63d9c8" opacity=".12"/>
+<circle cx="120" cy="620" r="310" fill="#d9b767" opacity=".10"/>
+<rect x="76" y="68" width="98" height="72" rx="20" fill="#63d9c8"/>
+<text x="125" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#061018">ASU</text>
+<text x="76" y="225" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#63d9c8" letter-spacing="3">CONNECTED THEORY · ONGOING INVESTIGATION</text>
+<text x="76" y="315" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#eef5fb">Immigration Proposed Standards</text>
+<text x="76" y="390" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#eef5fb">Structure · Communication · Integration</text>
+<text x="76" y="475" font-family="Arial, sans-serif" font-size="27" fill="#a9bccb">ASU Ltd social theory + Ace Scaffolding standards framework</text>
+<text x="76" y="555" font-family="Arial, sans-serif" font-size="24" fill="#d9b767">ASU LTD</text>
+</svg>

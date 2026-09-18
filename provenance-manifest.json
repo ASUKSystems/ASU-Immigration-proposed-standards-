@@ -1,0 +1,179 @@
+{
+  "release": "2026.09.18-r3",
+  "phase": "Phase 3",
+  "domain": "https://asu-immigration-proposed-standards.uk",
+  "generated": "2026-09-18",
+  "scope": "Complete Phase 3 additive website release with corrective privacy/identity pass",
+  "files": [
+    {
+      "path": ".well-known/security.txt",
+      "sha256": "9c22f10bb99cf5d46013f303f7485e0301f0abb5ec8eb03b2b987e503f3be991",
+      "bytes": 175
+    },
+    {
+      "path": "404.html",
+      "sha256": "ae3455881c4d226d9c0981512da02145100bba4d793301277a0b79fc9745e194",
+      "bytes": 1094
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "7375378b53d9ee2c7a0d6508815da394ea1eb2d3b199b39aca98c78857e76284",
+      "bytes": 1090
+    },
+    {
+      "path": "CNAME",
+      "sha256": "c5c5c6ff9f19f1cc9e664191364efa62c712c98dcac59172aa880a8c3d198bb0",
+      "bytes": 38
+    },
+    {
+      "path": "README-PHASE-3-PUSH.txt",
+      "sha256": "1eb7afa447bf7b8faa907594a38483de6c6128a526db1dd2179a06936576c409",
+      "bytes": 918
+    },
+    {
+      "path": "README.md",
+      "sha256": "7b221ebae8c516edbd517fcfeab67250db19e4150828d42e8cdac6e1192f47f0",
+      "bytes": 3714
+    },
+    {
+      "path": "VERSION.txt",
+      "sha256": "92ef0bfb5cfa8aae15740da9e49cbae21e9a0de49be7f884e8e2e85ef47804a0",
+      "bytes": 14
+    },
+    {
+      "path": "android-chrome-192x192.png",
+      "sha256": "2fe50c482bda2e6fff261c63f82db296c88ec91619568862a0858def09a58668",
+      "bytes": 3947
+    },
+    {
+      "path": "android-chrome-512x512.png",
+      "sha256": "b9407aa10d8c2c08852567764ff026f6ca907452fe47f37fad90a7ffc5a36d9d",
+      "bytes": 15759
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "sha256": "6aa30e3a7688618fa7e7ce6ae48b11650da0b7d021e11a27c0ee2752b403eef5",
+      "bytes": 3657
+    },
+    {
+      "path": "assessment-framework.html",
+      "sha256": "486b0fce1db3422bcf169a4b3010fcc2016611ebf0e2ee85226e97ae6e68cb55",
+      "bytes": 6717
+    },
+    {
+      "path": "assets/favicon.svg",
+      "sha256": "52ea51a45de1c1dce8d790e0113b3f0ecebb3806413b8f50d9f65b4f8587b5e1",
+      "bytes": 215
+    },
+    {
+      "path": "assets/social-card.svg",
+      "sha256": "4bf4fef8a303bb668098df44594dcaeb608754d97e2596c569a16379f63d975d",
+      "bytes": 1362
+    },
+    {
+      "path": "connected-theory.html",
+      "sha256": "85a91463fef1b7225c61b8946c873243bcacedf0aeffb0bf37acdbe2144372b8",
+      "bytes": 9809
+    },
+    {
+      "path": "consultation.html",
+      "sha256": "b7f226aa374ac78eac3f4ccc98ffc2a4e6f49e8c400e3b05329fe2b32d468a53",
+      "bytes": 4278
+    },
+    {
+      "path": "favicon-16x16.png",
+      "sha256": "1f8d7d5aca08e791ad5735c9ae6f857aa10cc75d8b123587f20ffe0f04c39042",
+      "bytes": 371
+    },
+    {
+      "path": "favicon-32x32.png",
+      "sha256": "aa467a5f55ec42e575414ca7f7519075f00b9d84784640094318b31b3757602c",
+      "bytes": 668
+    },
+    {
+      "path": "favicon.ico",
+      "sha256": "d2c00dbe43358390752cceb556826173d22579845521c05037157807efdaae71",
+      "bytes": 5430
+    },
+    {
+      "path": "impact-assessment.html",
+      "sha256": "7ff306ddb432941959ebe83f1743b018ce646d1b6fe8f462d7ab71a05fe46e3d",
+      "bytes": 4842
+    },
+    {
+      "path": "index.html",
+      "sha256": "8e59030b06c602d7a014192961f89687dd9db9c5209668207bd2890cc38d63d6",
+      "bytes": 16044
+    },
+    {
+      "path": "methodology.html",
+      "sha256": "8ec5f2d6aa2ed50cc3393b73823be6381d62c7ab5b446143773256444b966e28",
+      "bytes": 4623
+    },
+    {
+      "path": "pathway.html",
+      "sha256": "5f84ffc0ac4afa07ace51ab78a91841af3a87feef56541c5b16fd9dafa437fac",
+      "bytes": 10614
+    },
+    {
+      "path": "research.html",
+      "sha256": "6bea5d00e731cac0b4bef5bfdcca841855ccd6b6612cee8e4c3de9e039f18266",
+      "bytes": 11873
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "4e0c31efd1d90cd543007162bf5ec4f3619480f23312e41190d7fd6dafbd6752",
+      "bytes": 90
+    },
+    {
+      "path": "safeguards.html",
+      "sha256": "e8dcc230d9edcc311af9ef704701d201c235f1150019e9a60e2c275215c2cf5f",
+      "bytes": 8948
+    },
+    {
+      "path": "script.js",
+      "sha256": "d151d69633aed9c3b4c0d10776d81fb0ee5872ff3a9ba98c45ac44d5164a1307",
+      "bytes": 236
+    },
+    {
+      "path": "site.webmanifest",
+      "sha256": "3362629552f71cade06e4f02be030129a9d9c111625b8452d952e359fbb64b44",
+      "bytes": 521
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "eab74dcd4a11433899b6cbfc969c89f130ed723d622622740c260c57c3445264",
+      "bytes": 1603
+    },
+    {
+      "path": "sources.html",
+      "sha256": "58d66edb91d9880aa427795ddcb2cd9689338e87bad7eedcb2a6cfbf71b4695d",
+      "bytes": 10873
+    },
+    {
+      "path": "standards.html",
+      "sha256": "bf7ddff7bdbf45774d7b1a77b4458b55848c1fdd17005a7eed4ea7a5467502af",
+      "bytes": 11275
+    },
+    {
+      "path": "styles.css",
+      "sha256": "4a5826894fff4482c9230ee503b5af4fa5a668c1f9935089cff25a0b6927ff8d",
+      "bytes": 12586
+    },
+    {
+      "path": "terminology.html",
+      "sha256": "a1f42b3014f65b6db0ef8904d595c2681363a0dbb034fecccd9333b04e5e8137",
+      "bytes": 4754
+    },
+    {
+      "path": "terms.html",
+      "sha256": "a26bbf90f55af4eeaa41f743d5ee94f43b63bf2b9072b976eadf5b8cbf9cad1b",
+      "bytes": 7712
+    },
+    {
+      "path": "validate_site.py",
+      "sha256": "af208f1063e98cb5e3b833864c194bf167f7ea6524ba895b793ef21924e12f15",
+      "bytes": 2007
+    }
+  ]
+}
